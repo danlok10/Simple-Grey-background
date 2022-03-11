@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "author": "||ImHungry||#7680",
+        "version": "1.0.0",
+        "license": "where do i get",
+        "updater": "https://raw.githubusercontent.com/danlok10/something/main/yes",
+        "name": "Grey background"
+    },
+    "background": {
+        "url": "https://media.discordapp.net/attachments/723519133093986304/951894479504306206/PicsArt_03-11-06.27.20.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
